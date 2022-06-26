@@ -16,4 +16,5 @@ Delved deeply and rebuilt in my "own image" what i learned last week as understa
 so i spent this week on learning and trying to understand what was made.
 
 Week 3 and 4
+Backtracked a bit on Week 2s idea, instead building a 2nd project where i try to build same thing i build in main with help of some guides, incase i notice lack of understanding in order to increase understanding.
 Learned a bunch and researched about building UI in turn based game in more efficent manner. Also studied and and tried a bunch of thing with event dispatchers as that was completly new to me
