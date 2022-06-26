@@ -14,3 +14,6 @@ What i learned this week. a basic construct of how best start building this type
 Week 2
 Delved deeply and rebuilt in my "own image" what i learned last week as understanding after that week was pretty bad, 
 so i spent this week on learning and trying to understand what was made.
+
+Week 3 and 4
+Learned a bunch and researched about building UI in turn based game in more efficent manner. Also studied and and tried a bunch of thing with event dispatchers as that was completly new to me
