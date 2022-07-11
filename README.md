@@ -44,3 +44,11 @@ Problems in project atm are that leveling don't actually update the player bsae 
 Learned more about UI and how to properly make it interact with the game nicely although it tends to be a maze of confusion it tends to be more managable for me atm.
 
 Goals for next week are to add a field mode for game and transition between field and combat mode in game. Also have enemies spawn for certain pool that can be changed depending on area player is located. And hopefully start with the boss and it's AI
+
+Week 6
+
+Last weeks goals were achieved, There is a nice screenshatter transition between 2 game modes, enemies spawn from certain pool that changes using trigger volume, also boss spawns correctly at it's own specified location with possible adds on it's side if wanted. Also started on boss AI by giving him attack rotation and few custom attacks, also gave him a passive reflect shield.
+
+problem from the last week are still the same, not planning to fix it yet.
+
+Goals for next week would be to maybe download/make a small field map and continue boss design.
