@@ -54,3 +54,13 @@ Last weeks goals were achieved, There is a nice screenshatter transition between
 problem from the last week are still the same, not planning to fix it yet.
 
 Goals for next week would be to maybe download/make a small field map and continue boss design.
+
+Week 7
+
+Last weeks goals were more or less achieved. I've downloaded map, made transition work good. Made enemies spawn properly and nicely, boss encounter also feels a lot nicer fight against as well. Also made player friends in field mode.
+
+unfortunatly i didn't have much time this week to work on project, but i did what i could when i could here and there doing boat loads of small fixes and changes. The type of fixes that you wouldn't know were fixed, but you would notice if they weren't.
+
+problems from last week persist, no plans of fixing that yet.
+
+Goals for next week, main goal would be to create a paradim shift system, it's a idea i'll be "copying" from FFXIII, i really like it so i'm gonna make it. Also in field mode, maybe increase that side a bit and maybe download assets for fwends.
