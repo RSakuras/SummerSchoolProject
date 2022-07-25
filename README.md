@@ -63,4 +63,12 @@ unfortunatly i didn't have much time this week to work on project, but i did wha
 
 problems from last week persist, no plans of fixing that yet.
 
-Goals for next week, main goal would be to create a paradim shift system, it's a idea i'll be "copying" from FFXIII, i really like it so i'm gonna make it. Also in field mode, maybe increase that side a bit and maybe download assets for fwends.
+Goals for next week, main goal would be to create a paradigm shift system, it's a idea i'll be "copying" from FFXIII, i really like it so i'm gonna make it. Also in field mode, maybe increase that side a bit and maybe download assets for fwends.
+
+Week 8
+
+Last weeks goals were not achieved as i fell sick. I did however fiddle and fixed or added or changed bunch of small things here and there.
+
+Problems are still, player leveling doesn't work correctly.
+
+Goals for next week remains the same, Create Paradigm shift system.
