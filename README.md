@@ -72,3 +72,11 @@ Last weeks goals were not achieved as i fell sick. I did however fiddle and fixe
 Problems are still, player leveling doesn't work correctly.
 
 Goals for next week remains the same, Create Paradigm shift system.
+
+Week 9
+
+Las weeks goals were not fully achieved, paradigm shift system is nearing completion although not fully finished. I did also fix bunch of smaller stuff during this week.
+
+Problms still are that player leveling doesn't work correctly.
+
+Goals for next week are to finish the Paradigm shift system and if finished maybe create some small own player models (this might take few weeks as i have little expereience in blender).
